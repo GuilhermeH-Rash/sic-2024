@@ -23,5 +23,6 @@
 <table>
   <tr>
     Adicione aqui ...
+       <img src="https://https://avatars.githubusercontent.com/u/183607909?s=48&v=4" alt="Descrição da foto" width="50" height="50">
   </tr>
 </table>
